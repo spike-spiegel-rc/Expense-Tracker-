@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker Pro",
+  "description": "A professional fintech dashboard and personal expense tracker featuring smart monthly budgets, friends ledgers for lents and borrows, and dynamic visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
